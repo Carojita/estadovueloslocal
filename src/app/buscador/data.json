@@ -1,0 +1,5424 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 136
+    },
+    "data": [
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T16:46:00+00:00",
+                "estimated": "2026-04-19T16:46:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "D3",
+                "scheduled": "2026-04-19T17:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "JetSMART",
+                "iata": "JA",
+                "icao": "JAT"
+            },
+            "flight": {
+                "number": "5303",
+                "iata": "JA5303",
+                "icao": "JAT5303",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T16:30:00+00:00",
+                "estimated": "2026-04-19T16:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T17:30:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9824",
+                "iata": "AV9824",
+                "icao": "AVA9824",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T16:30:00+00:00",
+                "estimated": "2026-04-19T16:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T17:30:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8132",
+                "iata": "VB8132",
+                "icao": "VIV8132",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9824",
+                    "flight_iata": "av9824",
+                    "flight_icao": "ava9824"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T16:30:00+00:00",
+                "estimated": "2026-04-19T16:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T17:30:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8909",
+                "iata": "AR8909",
+                "icao": "ARG8909",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9824",
+                    "flight_iata": "av9824",
+                    "flight_icao": "ava9824"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:35:00+00:00",
+                "estimated": "2026-04-19T14:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T15:40:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4074",
+                "iata": "LA4074",
+                "icao": "LAN4074",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80238"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:35:00+00:00",
+                "estimated": "2026-04-19T14:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T15:40:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8218",
+                "iata": "AR8218",
+                "icao": "ARG8218",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4074",
+                    "flight_iata": "la4074",
+                    "flight_icao": "lan4074"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80238"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:00:00+00:00",
+                "estimated": "2026-04-19T14:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T15:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9228",
+                "iata": "AV9228",
+                "icao": "AVA9228",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:00:00+00:00",
+                "estimated": "2026-04-19T14:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T15:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Turkish Airlines",
+                "iata": "TK",
+                "icao": "THY"
+            },
+            "flight": {
+                "number": "8623",
+                "iata": "TK8623",
+                "icao": "THY8623",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:00:00+00:00",
+                "estimated": "2026-04-19T14:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T15:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6935",
+                "iata": "IB6935",
+                "icao": "IBE6935",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:00:00+00:00",
+                "estimated": "2026-04-19T14:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T15:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "GOL",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "6709",
+                "iata": "G36709",
+                "icao": "GLO6709",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T13:30:00+00:00",
+                "estimated": "2026-04-19T13:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T14:35:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4072",
+                "iata": "LA4072",
+                "icao": "LAN4072",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T13:30:00+00:00",
+                "estimated": "2026-04-19T13:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T14:35:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6737",
+                "iata": "IB6737",
+                "icao": "IBE6737",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4072",
+                    "flight_iata": "la4072",
+                    "flight_icao": "lan4072"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T13:10:00+00:00",
+                "estimated": "2026-04-19T13:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T14:15:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9204",
+                "iata": "AV9204",
+                "icao": "AVA9204",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T13:10:00+00:00",
+                "estimated": "2026-04-19T13:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T14:15:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6903",
+                "iata": "IB6903",
+                "icao": "IBE6903",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9204",
+                    "flight_iata": "av9204",
+                    "flight_icao": "ava9204"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T13:09:00+00:00",
+                "estimated": "2026-04-19T13:09:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T14:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Wingo",
+                "iata": "P5",
+                "icao": "RPB"
+            },
+            "flight": {
+                "number": "7651",
+                "iata": "P57651",
+                "icao": "RPB7651",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T12:50:00+00:00",
+                "estimated": "2026-04-19T12:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-19T13:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9726",
+                "iata": "AV9726",
+                "icao": "AVA9726",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T12:50:00+00:00",
+                "estimated": "2026-04-19T12:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-19T13:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6992",
+                "iata": "IB6992",
+                "icao": "IBE6992",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9726",
+                    "flight_iata": "av9726",
+                    "flight_icao": "ava9726"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T11:10:00+00:00",
+                "estimated": "2026-04-19T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "8522",
+                "iata": "AV8522",
+                "icao": "AVA8522",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T11:10:00+00:00",
+                "estimated": "2026-04-19T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8131",
+                "iata": "VB8131",
+                "icao": "VIV8131",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "8522",
+                    "flight_iata": "av8522",
+                    "flight_icao": "ava8522"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T12:50:00+00:00",
+                "estimated": "2026-04-19T12:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-19T13:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6961",
+                "iata": "IB6961",
+                "icao": "IBE6961",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9726",
+                    "flight_iata": "av9726",
+                    "flight_icao": "ava9726"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T11:10:00+00:00",
+                "estimated": "2026-04-19T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8129",
+                "iata": "VB8129",
+                "icao": "VIV8129",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "8522",
+                    "flight_iata": "av8522",
+                    "flight_icao": "ava8522"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T11:10:00+00:00",
+                "estimated": "2026-04-19T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6934",
+                "iata": "IB6934",
+                "icao": "IBE6934",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "8522",
+                    "flight_iata": "av8522",
+                    "flight_icao": "ava8522"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "estimated": "2026-04-19T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T11:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4070",
+                "iata": "LA4070",
+                "icao": "LAN4070",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80204"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "estimated": "2026-04-19T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T11:50:00+00:00",
+                "delay": 10,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6114",
+                "iata": "DL6114",
+                "icao": "DAL6114",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4070",
+                    "flight_iata": "la4070",
+                    "flight_icao": "lan4070"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80204"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "estimated": "2026-04-19T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T11:50:00+00:00",
+                "delay": 10,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8784",
+                "iata": "AM8784",
+                "icao": "AMX8784",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4070",
+                    "flight_iata": "la4070",
+                    "flight_icao": "lan4070"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80204"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "estimated": "2026-04-19T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T11:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8793",
+                "iata": "AM8793",
+                "icao": "AMX8793",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4070",
+                    "flight_iata": "la4070",
+                    "flight_icao": "lan4070"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80204"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T09:45:00+00:00",
+                "estimated": "2026-04-19T09:45:00+00:00",
+                "actual": "2026-04-19T09:50:00+00:00",
+                "estimated_runway": "2026-04-19T09:50:00+00:00",
+                "actual_runway": "2026-04-19T09:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T10:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9712",
+                "iata": "AV9712",
+                "icao": "AVA9712",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD1C18"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T09:39:00+00:00",
+                "estimated": "2026-04-19T09:39:00+00:00",
+                "actual": "2026-04-19T09:53:00+00:00",
+                "estimated_runway": "2026-04-19T09:53:00+00:00",
+                "actual_runway": "2026-04-19T09:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-19T10:40:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T10:27:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Wingo",
+                "iata": "P5",
+                "icao": "RPB"
+            },
+            "flight": {
+                "number": "7251",
+                "iata": "P57251",
+                "icao": "RPB7251",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0C2052"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:50:00+00:00",
+                "estimated": "2026-04-19T08:50:00+00:00",
+                "actual": "2026-04-19T09:07:00+00:00",
+                "estimated_runway": "2026-04-19T09:07:00+00:00",
+                "actual_runway": "2026-04-19T09:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T10:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T09:38:00+00:00",
+                "actual": "2026-04-19T09:39:00+00:00",
+                "estimated_runway": "2026-04-19T09:39:00+00:00",
+                "actual_runway": "2026-04-19T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4066",
+                "iata": "LA4066",
+                "icao": "LAN4066",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T14:35:00+00:00",
+                "estimated": "2026-04-19T14:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T15:40:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6572",
+                "iata": "IB6572",
+                "icao": "IBE6572",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4074",
+                    "flight_iata": "la4074",
+                    "flight_icao": "lan4074"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80238"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:50:00+00:00",
+                "estimated": "2026-04-19T08:50:00+00:00",
+                "actual": "2026-04-19T09:07:00+00:00",
+                "estimated_runway": "2026-04-19T09:07:00+00:00",
+                "actual_runway": "2026-04-19T09:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T10:00:00+00:00",
+                "delay": 17,
+                "estimated": "2026-04-19T09:37:00+00:00",
+                "actual": "2026-04-19T09:39:00+00:00",
+                "estimated_runway": "2026-04-19T09:39:00+00:00",
+                "actual_runway": "2026-04-19T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6107",
+                "iata": "DL6107",
+                "icao": "DAL6107",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4066",
+                    "flight_iata": "la4066",
+                    "flight_icao": "lan4066"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:50:00+00:00",
+                "estimated": "2026-04-19T08:50:00+00:00",
+                "actual": "2026-04-19T09:07:00+00:00",
+                "estimated_runway": "2026-04-19T09:07:00+00:00",
+                "actual_runway": "2026-04-19T09:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T10:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T09:38:00+00:00",
+                "actual": "2026-04-19T09:39:00+00:00",
+                "estimated_runway": "2026-04-19T09:39:00+00:00",
+                "actual_runway": "2026-04-19T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6103",
+                "iata": "DL6103",
+                "icao": "DAL6103",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4066",
+                    "flight_iata": "la4066",
+                    "flight_icao": "lan4066"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:50:00+00:00",
+                "estimated": "2026-04-19T08:50:00+00:00",
+                "actual": "2026-04-19T09:07:00+00:00",
+                "estimated_runway": "2026-04-19T09:07:00+00:00",
+                "actual_runway": "2026-04-19T09:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T10:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T09:38:00+00:00",
+                "actual": "2026-04-19T09:39:00+00:00",
+                "estimated_runway": "2026-04-19T09:39:00+00:00",
+                "actual_runway": "2026-04-19T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8716",
+                "iata": "AM8716",
+                "icao": "AMX8716",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4066",
+                    "flight_iata": "la4066",
+                    "flight_icao": "lan4066"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:25:00+00:00",
+                "estimated": "2026-04-19T08:25:00+00:00",
+                "actual": "2026-04-19T08:41:00+00:00",
+                "estimated_runway": "2026-04-19T08:41:00+00:00",
+                "actual_runway": "2026-04-19T08:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T09:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T09:13:00+00:00",
+                "actual": "2026-04-19T09:12:00+00:00",
+                "estimated_runway": "2026-04-19T09:12:00+00:00",
+                "actual_runway": "2026-04-19T09:12:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "8416",
+                "iata": "AV8416",
+                "icao": "AVA8416",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD4397"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:00:00+00:00",
+                "estimated": "2026-04-19T08:00:00+00:00",
+                "actual": "2026-04-19T08:12:00+00:00",
+                "estimated_runway": "2026-04-19T08:12:00+00:00",
+                "actual_runway": "2026-04-19T08:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T08:47:00+00:00",
+                "actual": "2026-04-19T08:48:00+00:00",
+                "estimated_runway": "2026-04-19T08:48:00+00:00",
+                "actual_runway": "2026-04-19T08:48:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "8418",
+                "iata": "AV8418",
+                "icao": "AVA8418",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A92E81"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:55:00+00:00",
+                "estimated": "2026-04-19T07:55:00+00:00",
+                "actual": "2026-04-19T08:07:00+00:00",
+                "estimated_runway": "2026-04-19T08:07:00+00:00",
+                "actual_runway": "2026-04-19T08:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T08:42:00+00:00",
+                "actual": "2026-04-19T08:43:00+00:00",
+                "estimated_runway": "2026-04-19T08:43:00+00:00",
+                "actual_runway": "2026-04-19T08:43:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4064",
+                "iata": "LA4064",
+                "icao": "LAN4064",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80418"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T08:50:00+00:00",
+                "estimated": "2026-04-19T08:50:00+00:00",
+                "actual": "2026-04-19T09:07:00+00:00",
+                "estimated_runway": "2026-04-19T09:07:00+00:00",
+                "actual_runway": "2026-04-19T09:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T10:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T09:38:00+00:00",
+                "actual": "2026-04-19T09:39:00+00:00",
+                "estimated_runway": "2026-04-19T09:39:00+00:00",
+                "actual_runway": "2026-04-19T09:39:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6680",
+                "iata": "IB6680",
+                "icao": "IBE6680",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4066",
+                    "flight_iata": "la4066",
+                    "flight_icao": "lan4066"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T10:45:00+00:00",
+                "estimated": "2026-04-19T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T11:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6104",
+                "iata": "DL6104",
+                "icao": "DAL6104",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4070",
+                    "flight_iata": "la4070",
+                    "flight_icao": "lan4070"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80204"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:55:00+00:00",
+                "estimated": "2026-04-19T07:55:00+00:00",
+                "actual": "2026-04-19T08:07:00+00:00",
+                "estimated_runway": "2026-04-19T08:07:00+00:00",
+                "actual_runway": "2026-04-19T08:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": 13,
+                "estimated": "2026-04-19T08:43:00+00:00",
+                "actual": "2026-04-19T08:43:00+00:00",
+                "estimated_runway": "2026-04-19T08:43:00+00:00",
+                "actual_runway": "2026-04-19T08:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8714",
+                "iata": "AM8714",
+                "icao": "AMX8714",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4064",
+                    "flight_iata": "la4064",
+                    "flight_icao": "lan4064"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80418"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:55:00+00:00",
+                "estimated": "2026-04-19T07:55:00+00:00",
+                "actual": "2026-04-19T08:07:00+00:00",
+                "estimated_runway": "2026-04-19T08:07:00+00:00",
+                "actual_runway": "2026-04-19T08:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T08:42:00+00:00",
+                "actual": "2026-04-19T08:43:00+00:00",
+                "estimated_runway": "2026-04-19T08:43:00+00:00",
+                "actual_runway": "2026-04-19T08:43:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6730",
+                "iata": "IB6730",
+                "icao": "IBE6730",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4064",
+                    "flight_iata": "la4064",
+                    "flight_icao": "lan4064"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80418"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:55:00+00:00",
+                "estimated": "2026-04-19T07:55:00+00:00",
+                "actual": "2026-04-19T08:07:00+00:00",
+                "estimated_runway": "2026-04-19T08:07:00+00:00",
+                "actual_runway": "2026-04-19T08:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T08:42:00+00:00",
+                "actual": "2026-04-19T08:43:00+00:00",
+                "estimated_runway": "2026-04-19T08:43:00+00:00",
+                "actual_runway": "2026-04-19T08:43:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6100",
+                "iata": "DL6100",
+                "icao": "DAL6100",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4064",
+                    "flight_iata": "la4064",
+                    "flight_icao": "lan4064"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80418"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:55:00+00:00",
+                "estimated": "2026-04-19T07:55:00+00:00",
+                "actual": "2026-04-19T08:07:00+00:00",
+                "estimated_runway": "2026-04-19T08:07:00+00:00",
+                "actual_runway": "2026-04-19T08:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T09:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T08:42:00+00:00",
+                "actual": "2026-04-19T08:43:00+00:00",
+                "estimated_runway": "2026-04-19T08:43:00+00:00",
+                "actual_runway": "2026-04-19T08:43:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8791",
+                "iata": "AM8791",
+                "icao": "AMX8791",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4064",
+                    "flight_iata": "la4064",
+                    "flight_icao": "lan4064"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80418"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T07:00:00+00:00",
+                "estimated": "2026-04-19T07:00:00+00:00",
+                "actual": "2026-04-19T07:09:00+00:00",
+                "estimated_runway": "2026-04-19T07:09:00+00:00",
+                "actual_runway": "2026-04-19T07:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-19T08:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T07:40:00+00:00",
+                "actual": "2026-04-19T07:42:00+00:00",
+                "estimated_runway": "2026-04-19T07:42:00+00:00",
+                "actual_runway": "2026-04-19T07:42:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "8454",
+                "iata": "AV8454",
+                "icao": "AVA8454",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A560FB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2026-04-19T06:45:00+00:00",
+                "estimated": "2026-04-19T06:45:00+00:00",
+                "actual": "2026-04-19T07:22:00+00:00",
+                "estimated_runway": "2026-04-19T07:22:00+00:00",
+                "actual_runway": "2026-04-19T07:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T07:50:00+00:00",
+                "delay": 3,
+                "estimated": "2026-04-19T07:52:00+00:00",
+                "actual": "2026-04-19T07:53:00+00:00",
+                "estimated_runway": "2026-04-19T07:53:00+00:00",
+                "actual_runway": "2026-04-19T07:53:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4062",
+                "iata": "LA4062",
+                "icao": "LAN4062",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80477"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2026-04-19T06:45:00+00:00",
+                "estimated": "2026-04-19T06:45:00+00:00",
+                "actual": "2026-04-19T07:22:00+00:00",
+                "estimated_runway": "2026-04-19T07:22:00+00:00",
+                "actual_runway": "2026-04-19T07:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T07:50:00+00:00",
+                "delay": 37,
+                "estimated": "2026-04-19T07:56:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6127",
+                "iata": "DL6127",
+                "icao": "DAL6127",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4062",
+                    "flight_iata": "la4062",
+                    "flight_icao": "lan4062"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80477"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2026-04-19T06:45:00+00:00",
+                "estimated": "2026-04-19T06:45:00+00:00",
+                "actual": "2026-04-19T07:22:00+00:00",
+                "estimated_runway": "2026-04-19T07:22:00+00:00",
+                "actual_runway": "2026-04-19T07:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T07:50:00+00:00",
+                "delay": 3,
+                "estimated": "2026-04-19T07:52:00+00:00",
+                "actual": "2026-04-19T07:53:00+00:00",
+                "estimated_runway": "2026-04-19T07:53:00+00:00",
+                "actual_runway": "2026-04-19T07:53:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6121",
+                "iata": "DL6121",
+                "icao": "DAL6121",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4062",
+                    "flight_iata": "la4062",
+                    "flight_icao": "lan4062"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80477"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T06:15:00+00:00",
+                "estimated": "2026-04-19T06:15:00+00:00",
+                "actual": "2026-04-19T06:29:00+00:00",
+                "estimated_runway": "2026-04-19T06:29:00+00:00",
+                "actual_runway": "2026-04-19T06:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T07:20:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T06:59:00+00:00",
+                "actual": "2026-04-19T07:00:00+00:00",
+                "estimated_runway": "2026-04-19T07:00:00+00:00",
+                "actual_runway": "2026-04-19T07:00:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9218",
+                "iata": "AV9218",
+                "icao": "AVA9218",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD34BB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T06:15:00+00:00",
+                "estimated": "2026-04-19T06:15:00+00:00",
+                "actual": "2026-04-19T06:29:00+00:00",
+                "estimated_runway": "2026-04-19T06:29:00+00:00",
+                "actual_runway": "2026-04-19T06:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T07:20:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T06:59:00+00:00",
+                "actual": "2026-04-19T07:00:00+00:00",
+                "estimated_runway": "2026-04-19T07:00:00+00:00",
+                "actual_runway": "2026-04-19T07:00:00+00:00"
+            },
+            "airline": {
+                "name": "Air Canada",
+                "iata": "AC",
+                "icao": "ACA"
+            },
+            "flight": {
+                "number": "2945",
+                "iata": "AC2945",
+                "icao": "ACA2945",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9218",
+                    "flight_iata": "av9218",
+                    "flight_icao": "ava9218"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD34BB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T05:55:00+00:00",
+                "estimated": "2026-04-19T05:55:00+00:00",
+                "actual": "2026-04-19T06:15:00+00:00",
+                "estimated_runway": "2026-04-19T06:15:00+00:00",
+                "actual_runway": "2026-04-19T06:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-19T07:00:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T06:46:00+00:00",
+                "actual": "2026-04-19T06:47:00+00:00",
+                "estimated_runway": "2026-04-19T06:47:00+00:00",
+                "actual_runway": "2026-04-19T06:47:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9544",
+                "iata": "AV9544",
+                "icao": "AVA9544",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD1C18"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T05:25:00+00:00",
+                "estimated": "2026-04-19T05:25:00+00:00",
+                "actual": "2026-04-19T05:39:00+00:00",
+                "estimated_runway": "2026-04-19T05:39:00+00:00",
+                "actual_runway": "2026-04-19T05:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T06:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T06:14:00+00:00",
+                "actual": "2026-04-19T06:11:00+00:00",
+                "estimated_runway": "2026-04-19T06:11:00+00:00",
+                "actual_runway": "2026-04-19T06:11:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4060",
+                "iata": "LA4060",
+                "icao": "LAN4060",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T05:25:00+00:00",
+                "estimated": "2026-04-19T05:25:00+00:00",
+                "actual": "2026-04-19T05:39:00+00:00",
+                "estimated_runway": "2026-04-19T05:39:00+00:00",
+                "actual_runway": "2026-04-19T05:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-19T06:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T06:14:00+00:00",
+                "actual": "2026-04-19T06:11:00+00:00",
+                "estimated_runway": "2026-04-19T06:11:00+00:00",
+                "actual_runway": "2026-04-19T06:11:00+00:00"
+            },
+            "airline": {
+                "name": "Delta Air Lines",
+                "iata": "DL",
+                "icao": "DAL"
+            },
+            "flight": {
+                "number": "6721",
+                "iata": "DL6721",
+                "icao": "DAL6721",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4060",
+                    "flight_iata": "la4060",
+                    "flight_icao": "lan4060"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T04:40:00+00:00",
+                "estimated": "2026-04-19T04:40:00+00:00",
+                "actual": "2026-04-19T04:45:00+00:00",
+                "estimated_runway": "2026-04-19T04:45:00+00:00",
+                "actual_runway": "2026-04-19T04:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T05:45:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T05:18:00+00:00",
+                "actual": "2026-04-19T05:16:00+00:00",
+                "estimated_runway": "2026-04-19T05:16:00+00:00",
+                "actual_runway": "2026-04-19T05:16:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9366",
+                "iata": "AV9366",
+                "icao": "AVA9366",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AA0531"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T04:40:00+00:00",
+                "estimated": "2026-04-19T04:40:00+00:00",
+                "actual": "2026-04-19T04:45:00+00:00",
+                "estimated_runway": "2026-04-19T04:45:00+00:00",
+                "actual_runway": "2026-04-19T04:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T05:45:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T05:18:00+00:00",
+                "actual": "2026-04-19T05:16:00+00:00",
+                "estimated_runway": "2026-04-19T05:16:00+00:00",
+                "actual_runway": "2026-04-19T05:16:00+00:00"
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8130",
+                "iata": "VB8130",
+                "icao": "VIV8130",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9366",
+                    "flight_iata": "av9366",
+                    "flight_icao": "ava9366"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AA0531"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-19",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-19T04:40:00+00:00",
+                "estimated": "2026-04-19T04:40:00+00:00",
+                "actual": "2026-04-19T04:45:00+00:00",
+                "estimated_runway": "2026-04-19T04:45:00+00:00",
+                "actual_runway": "2026-04-19T04:45:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-19T05:45:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-19T05:18:00+00:00",
+                "actual": "2026-04-19T05:16:00+00:00",
+                "estimated_runway": "2026-04-19T05:16:00+00:00",
+                "actual_runway": "2026-04-19T05:16:00+00:00"
+            },
+            "airline": {
+                "name": "GOL",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "6708",
+                "iata": "G36708",
+                "icao": "GLO6708",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9366",
+                    "flight_iata": "av9366",
+                    "flight_icao": "ava9366"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AA0531"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T22:50:00+00:00",
+                "estimated": "2026-04-18T22:50:00+00:00",
+                "actual": "2026-04-18T23:09:00+00:00",
+                "estimated_runway": "2026-04-18T23:09:00+00:00",
+                "actual_runway": "2026-04-18T23:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T23:55:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T23:42:00+00:00",
+                "actual": "2026-04-18T23:41:00+00:00",
+                "estimated_runway": "2026-04-18T23:41:00+00:00",
+                "actual_runway": "2026-04-18T23:41:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4098",
+                "iata": "LA4098",
+                "icao": "LAN4098",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8043E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T22:50:00+00:00",
+                "estimated": "2026-04-18T22:50:00+00:00",
+                "actual": "2026-04-18T23:09:00+00:00",
+                "estimated_runway": "2026-04-18T23:09:00+00:00",
+                "actual_runway": "2026-04-18T23:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T23:55:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T23:42:00+00:00",
+                "actual": "2026-04-18T23:41:00+00:00",
+                "estimated_runway": "2026-04-18T23:41:00+00:00",
+                "actual_runway": "2026-04-18T23:41:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8714",
+                "iata": "AM8714",
+                "icao": "AMX8714",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4098",
+                    "flight_iata": "la4098",
+                    "flight_icao": "lan4098"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8043E"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T21:55:00+00:00",
+                "estimated": "2026-04-18T21:55:00+00:00",
+                "actual": "2026-04-18T22:08:00+00:00",
+                "estimated_runway": "2026-04-18T22:08:00+00:00",
+                "actual_runway": "2026-04-18T22:08:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-18T22:55:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T22:41:00+00:00",
+                "actual": "2026-04-18T22:39:00+00:00",
+                "estimated_runway": "2026-04-18T22:39:00+00:00",
+                "actual_runway": "2026-04-18T22:39:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9236",
+                "iata": "AV9236",
+                "icao": "AVA9236",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0ACAC0"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T21:55:00+00:00",
+                "estimated": "2026-04-18T21:55:00+00:00",
+                "actual": "2026-04-18T22:08:00+00:00",
+                "estimated_runway": "2026-04-18T22:08:00+00:00",
+                "actual_runway": "2026-04-18T22:08:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-18T22:55:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T22:41:00+00:00",
+                "actual": "2026-04-18T22:39:00+00:00",
+                "estimated_runway": "2026-04-18T22:39:00+00:00",
+                "actual_runway": "2026-04-18T22:39:00+00:00"
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8127",
+                "iata": "VB8127",
+                "icao": "VIV8127",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9236",
+                    "flight_iata": "av9236",
+                    "flight_icao": "ava9236"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0ACAC0"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 19,
+                "scheduled": "2026-04-18T21:50:00+00:00",
+                "estimated": "2026-04-18T21:50:00+00:00",
+                "actual": "2026-04-18T22:42:00+00:00",
+                "estimated_runway": "2026-04-18T22:42:00+00:00",
+                "actual_runway": "2026-04-18T22:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T22:55:00+00:00",
+                "delay": 19,
+                "estimated": "2026-04-18T23:13:00+00:00",
+                "actual": "2026-04-18T23:14:00+00:00",
+                "estimated_runway": "2026-04-18T23:14:00+00:00",
+                "actual_runway": "2026-04-18T23:14:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4084",
+                "iata": "LA4084",
+                "icao": "LAN4084",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 19,
+                "scheduled": "2026-04-18T21:50:00+00:00",
+                "estimated": "2026-04-18T21:50:00+00:00",
+                "actual": "2026-04-18T22:42:00+00:00",
+                "estimated_runway": "2026-04-18T22:42:00+00:00",
+                "actual_runway": "2026-04-18T22:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T22:55:00+00:00",
+                "delay": 19,
+                "estimated": "2026-04-18T23:13:00+00:00",
+                "actual": "2026-04-18T23:14:00+00:00",
+                "estimated_runway": "2026-04-18T23:14:00+00:00",
+                "actual_runway": "2026-04-18T23:14:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8809",
+                "iata": "AM8809",
+                "icao": "AMX8809",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4084",
+                    "flight_iata": "la4084",
+                    "flight_icao": "lan4084"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T21:20:00+00:00",
+                "estimated": "2026-04-18T21:20:00+00:00",
+                "actual": "2026-04-18T21:30:00+00:00",
+                "estimated_runway": "2026-04-18T21:30:00+00:00",
+                "actual_runway": "2026-04-18T21:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T22:20:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T22:00:00+00:00",
+                "actual": "2026-04-18T22:02:00+00:00",
+                "estimated_runway": "2026-04-18T22:02:00+00:00",
+                "actual_runway": "2026-04-18T22:02:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9568",
+                "iata": "AV9568",
+                "icao": "AVA9568",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T21:20:00+00:00",
+                "estimated": "2026-04-18T21:20:00+00:00",
+                "actual": "2026-04-18T21:30:00+00:00",
+                "estimated_runway": "2026-04-18T21:30:00+00:00",
+                "actual_runway": "2026-04-18T21:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T22:20:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T22:00:00+00:00",
+                "actual": "2026-04-18T22:02:00+00:00",
+                "estimated_runway": "2026-04-18T22:02:00+00:00",
+                "actual_runway": "2026-04-18T22:02:00+00:00"
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8128",
+                "iata": "VB8128",
+                "icao": "VIV8128",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9568",
+                    "flight_iata": "av9568",
+                    "flight_icao": "ava9568"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T21:20:00+00:00",
+                "estimated": "2026-04-18T21:20:00+00:00",
+                "actual": "2026-04-18T21:30:00+00:00",
+                "estimated_runway": "2026-04-18T21:30:00+00:00",
+                "actual_runway": "2026-04-18T21:30:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T22:20:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T22:00:00+00:00",
+                "actual": "2026-04-18T22:02:00+00:00",
+                "estimated_runway": "2026-04-18T22:02:00+00:00",
+                "actual_runway": "2026-04-18T22:02:00+00:00"
+            },
+            "airline": {
+                "name": "GOL",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "6712",
+                "iata": "G36712",
+                "icao": "GLO6712",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9568",
+                    "flight_iata": "av9568",
+                    "flight_icao": "ava9568"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A71980"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T20:05:00+00:00",
+                "estimated": "2026-04-18T20:05:00+00:00",
+                "actual": "2026-04-18T20:22:00+00:00",
+                "estimated_runway": "2026-04-18T20:22:00+00:00",
+                "actual_runway": "2026-04-18T20:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T21:10:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T20:53:00+00:00",
+                "actual": "2026-04-18T20:53:00+00:00",
+                "estimated_runway": "2026-04-18T20:53:00+00:00",
+                "actual_runway": "2026-04-18T20:53:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4082",
+                "iata": "LA4082",
+                "icao": "LAN4082",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80246"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T20:05:00+00:00",
+                "estimated": "2026-04-18T20:05:00+00:00",
+                "actual": "2026-04-18T20:22:00+00:00",
+                "estimated_runway": "2026-04-18T20:22:00+00:00",
+                "actual_runway": "2026-04-18T20:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T21:10:00+00:00",
+                "delay": 18,
+                "estimated": "2026-04-18T20:53:00+00:00",
+                "actual": "2026-04-18T20:53:00+00:00",
+                "estimated_runway": "2026-04-18T20:53:00+00:00",
+                "actual_runway": "2026-04-18T20:53:00+00:00"
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "4669",
+                "iata": "LH4669",
+                "icao": "DLH4669",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4082",
+                    "flight_iata": "la4082",
+                    "flight_icao": "lan4082"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80246"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T20:05:00+00:00",
+                "estimated": "2026-04-18T20:05:00+00:00",
+                "actual": "2026-04-18T20:22:00+00:00",
+                "estimated_runway": "2026-04-18T20:22:00+00:00",
+                "actual_runway": "2026-04-18T20:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T21:10:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T20:53:00+00:00",
+                "actual": "2026-04-18T20:53:00+00:00",
+                "estimated_runway": "2026-04-18T20:53:00+00:00",
+                "actual_runway": "2026-04-18T20:53:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8781",
+                "iata": "AM8781",
+                "icao": "AMX8781",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4082",
+                    "flight_iata": "la4082",
+                    "flight_icao": "lan4082"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80246"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 16,
+                "scheduled": "2026-04-18T19:50:00+00:00",
+                "estimated": "2026-04-18T19:50:00+00:00",
+                "actual": "2026-04-18T20:36:00+00:00",
+                "estimated_runway": "2026-04-18T20:36:00+00:00",
+                "actual_runway": "2026-04-18T20:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T20:50:00+00:00",
+                "delay": 16,
+                "estimated": "2026-04-18T21:08:00+00:00",
+                "actual": "2026-04-18T21:06:00+00:00",
+                "estimated_runway": "2026-04-18T21:06:00+00:00",
+                "actual_runway": "2026-04-18T21:06:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9224",
+                "iata": "AV9224",
+                "icao": "AVA9224",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "ADDA25"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 22,
+                "scheduled": "2026-04-18T19:50:00+00:00",
+                "estimated": "2026-04-18T19:50:00+00:00",
+                "actual": "2026-04-18T20:36:00+00:00",
+                "estimated_runway": "2026-04-18T20:36:00+00:00",
+                "actual_runway": "2026-04-18T20:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T20:50:00+00:00",
+                "delay": 46,
+                "estimated": "2026-04-18T21:12:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "9627",
+                "iata": "LH9627",
+                "icao": "DLH9627",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9224",
+                    "flight_iata": "av9224",
+                    "flight_icao": "ava9224"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "ADDA25"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 37,
+                "scheduled": "2026-04-18T18:40:00+00:00",
+                "estimated": "2026-04-18T18:40:00+00:00",
+                "actual": "2026-04-18T19:49:00+00:00",
+                "estimated_runway": "2026-04-18T19:49:00+00:00",
+                "actual_runway": "2026-04-18T19:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T19:45:00+00:00",
+                "delay": 37,
+                "estimated": "2026-04-18T20:21:00+00:00",
+                "actual": "2026-04-18T20:22:00+00:00",
+                "estimated_runway": "2026-04-18T20:22:00+00:00",
+                "actual_runway": "2026-04-18T20:22:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4080",
+                "iata": "LA4080",
+                "icao": "LAN4080",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8023A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T18:40:00+00:00",
+                "estimated": "2026-04-18T18:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T19:45:00+00:00",
+                "delay": 65,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8784",
+                "iata": "AM8784",
+                "icao": "AMX8784",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4080",
+                    "flight_iata": "la4080",
+                    "flight_icao": "lan4080"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8023A"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 17,
+                "scheduled": "2026-04-18T18:39:00+00:00",
+                "estimated": "2026-04-18T18:39:00+00:00",
+                "actual": "2026-04-18T19:25:00+00:00",
+                "estimated_runway": "2026-04-18T19:25:00+00:00",
+                "actual_runway": "2026-04-18T19:25:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "9",
+                "scheduled": "2026-04-18T19:40:00+00:00",
+                "delay": 17,
+                "estimated": "2026-04-18T19:56:00+00:00",
+                "actual": "2026-04-18T19:57:00+00:00",
+                "estimated_runway": "2026-04-18T19:57:00+00:00",
+                "actual_runway": "2026-04-18T19:57:00+00:00"
+            },
+            "airline": {
+                "name": "Wingo",
+                "iata": "P5",
+                "icao": "RPB"
+            },
+            "flight": {
+                "number": "7261",
+                "iata": "P57261",
+                "icao": "RPB7261",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0C2050"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T18:30:00+00:00",
+                "estimated": "2026-04-18T18:30:00+00:00",
+                "actual": "2026-04-18T18:46:00+00:00",
+                "estimated_runway": "2026-04-18T18:46:00+00:00",
+                "actual_runway": "2026-04-18T18:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T19:35:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T19:27:00+00:00",
+                "actual": "2026-04-18T19:32:00+00:00",
+                "estimated_runway": "2026-04-18T19:32:00+00:00",
+                "actual_runway": "2026-04-18T19:32:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9566",
+                "iata": "AV9566",
+                "icao": "AVA9566",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A9FDC3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T18:30:00+00:00",
+                "estimated": "2026-04-18T18:30:00+00:00",
+                "actual": "2026-04-18T18:46:00+00:00",
+                "estimated_runway": "2026-04-18T18:46:00+00:00",
+                "actual_runway": "2026-04-18T18:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T19:35:00+00:00",
+                "delay": 17,
+                "estimated": "2026-04-18T19:27:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Lufthansa",
+                "iata": "LH",
+                "icao": "DLH"
+            },
+            "flight": {
+                "number": "9615",
+                "iata": "LH9615",
+                "icao": "DLH9615",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9566",
+                    "flight_iata": "av9566",
+                    "flight_icao": "ava9566"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A9FDC3"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T18:15:00+00:00",
+                "estimated": "2026-04-18T18:15:00+00:00",
+                "actual": "2026-04-18T18:31:00+00:00",
+                "estimated_runway": "2026-04-18T18:31:00+00:00",
+                "actual_runway": "2026-04-18T18:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T19:15:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T19:02:00+00:00",
+                "actual": "2026-04-18T19:04:00+00:00",
+                "estimated_runway": "2026-04-18T19:04:00+00:00",
+                "actual_runway": "2026-04-18T19:04:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9220",
+                "iata": "AV9220",
+                "icao": "AVA9220",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0ACAC0"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T18:15:00+00:00",
+                "estimated": "2026-04-18T18:15:00+00:00",
+                "actual": "2026-04-18T18:31:00+00:00",
+                "estimated_runway": "2026-04-18T18:31:00+00:00",
+                "actual_runway": "2026-04-18T18:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T19:15:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T19:02:00+00:00",
+                "actual": "2026-04-18T19:04:00+00:00",
+                "estimated_runway": "2026-04-18T19:04:00+00:00",
+                "actual_runway": "2026-04-18T19:04:00+00:00"
+            },
+            "airline": {
+                "name": "GOL",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "6713",
+                "iata": "G36713",
+                "icao": "GLO6713",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9220",
+                    "flight_iata": "av9220",
+                    "flight_icao": "ava9220"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0ACAC0"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T17:20:00+00:00",
+                "estimated": "2026-04-18T17:20:00+00:00",
+                "actual": "2026-04-18T17:31:00+00:00",
+                "estimated_runway": "2026-04-18T17:31:00+00:00",
+                "actual_runway": "2026-04-18T17:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T18:22:00+00:00",
+                "actual": "2026-04-18T18:22:00+00:00",
+                "estimated_runway": "2026-04-18T18:22:00+00:00",
+                "actual_runway": "2026-04-18T18:22:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4078",
+                "iata": "LA4078",
+                "icao": "LAN4078",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T17:20:00+00:00",
+                "estimated": "2026-04-18T17:20:00+00:00",
+                "actual": "2026-04-18T17:31:00+00:00",
+                "estimated_runway": "2026-04-18T17:31:00+00:00",
+                "actual_runway": "2026-04-18T17:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T18:25:00+00:00",
+                "delay": 11,
+                "estimated": "2026-04-18T18:17:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8792",
+                "iata": "AM8792",
+                "icao": "AMX8792",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4078",
+                    "flight_iata": "la4078",
+                    "flight_icao": "lan4078"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T17:20:00+00:00",
+                "estimated": "2026-04-18T17:20:00+00:00",
+                "actual": "2026-04-18T17:31:00+00:00",
+                "estimated_runway": "2026-04-18T17:31:00+00:00",
+                "actual_runway": "2026-04-18T17:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T18:25:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T18:22:00+00:00",
+                "actual": "2026-04-18T18:22:00+00:00",
+                "estimated_runway": "2026-04-18T18:22:00+00:00",
+                "actual_runway": "2026-04-18T18:22:00+00:00"
+            },
+            "airline": {
+                "name": "Aeromexico",
+                "iata": "AM",
+                "icao": "AMX"
+            },
+            "flight": {
+                "number": "8775",
+                "iata": "AM8775",
+                "icao": "AMX8775",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4078",
+                    "flight_iata": "la4078",
+                    "flight_icao": "lan4078"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T16:30:00+00:00",
+                "estimated": "2026-04-18T16:30:00+00:00",
+                "actual": "2026-04-18T16:38:00+00:00",
+                "estimated_runway": "2026-04-18T16:38:00+00:00",
+                "actual_runway": "2026-04-18T16:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T17:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T17:16:00+00:00",
+                "actual": "2026-04-18T17:17:00+00:00",
+                "estimated_runway": "2026-04-18T17:17:00+00:00",
+                "actual_runway": "2026-04-18T17:17:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9824",
+                "iata": "AV9824",
+                "icao": "AVA9824",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A9B27C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T16:30:00+00:00",
+                "estimated": "2026-04-18T16:30:00+00:00",
+                "actual": "2026-04-18T16:38:00+00:00",
+                "estimated_runway": "2026-04-18T16:38:00+00:00",
+                "actual_runway": "2026-04-18T16:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T17:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T17:16:00+00:00",
+                "actual": "2026-04-18T17:17:00+00:00",
+                "estimated_runway": "2026-04-18T17:17:00+00:00",
+                "actual_runway": "2026-04-18T17:17:00+00:00"
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8132",
+                "iata": "VB8132",
+                "icao": "VIV8132",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9824",
+                    "flight_iata": "av9824",
+                    "flight_icao": "ava9824"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A9B27C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T16:30:00+00:00",
+                "estimated": "2026-04-18T16:30:00+00:00",
+                "actual": "2026-04-18T16:38:00+00:00",
+                "estimated_runway": "2026-04-18T16:38:00+00:00",
+                "actual_runway": "2026-04-18T16:38:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T17:30:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T17:16:00+00:00",
+                "actual": "2026-04-18T17:17:00+00:00",
+                "estimated_runway": "2026-04-18T17:17:00+00:00",
+                "actual_runway": "2026-04-18T17:17:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8909",
+                "iata": "AR8909",
+                "icao": "ARG8909",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9824",
+                    "flight_iata": "av9824",
+                    "flight_icao": "ava9824"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A9B27C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": null,
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T15:19:00+00:00",
+                "estimated": "2026-04-18T15:19:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T16:20:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Wingo",
+                "iata": "P5",
+                "icao": "RPB"
+            },
+            "flight": {
+                "number": "7257",
+                "iata": "P57257",
+                "icao": "RPB7257",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T14:35:00+00:00",
+                "estimated": "2026-04-18T14:35:00+00:00",
+                "actual": "2026-04-18T14:51:00+00:00",
+                "estimated_runway": "2026-04-18T14:51:00+00:00",
+                "actual_runway": "2026-04-18T14:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T15:40:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T15:22:00+00:00",
+                "actual": "2026-04-18T15:25:00+00:00",
+                "estimated_runway": "2026-04-18T15:25:00+00:00",
+                "actual_runway": "2026-04-18T15:25:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4074",
+                "iata": "LA4074",
+                "icao": "LAN4074",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T14:35:00+00:00",
+                "estimated": "2026-04-18T14:35:00+00:00",
+                "actual": "2026-04-18T14:51:00+00:00",
+                "estimated_runway": "2026-04-18T14:51:00+00:00",
+                "actual_runway": "2026-04-18T14:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T15:40:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T15:22:00+00:00",
+                "actual": "2026-04-18T15:25:00+00:00",
+                "estimated_runway": "2026-04-18T15:25:00+00:00",
+                "actual_runway": "2026-04-18T15:25:00+00:00"
+            },
+            "airline": {
+                "name": "Aerolineas Argentinas",
+                "iata": "AR",
+                "icao": "ARG"
+            },
+            "flight": {
+                "number": "8218",
+                "iata": "AR8218",
+                "icao": "ARG8218",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4074",
+                    "flight_iata": "la4074",
+                    "flight_icao": "lan4074"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 47,
+                "scheduled": "2026-04-18T14:00:00+00:00",
+                "estimated": "2026-04-18T14:00:00+00:00",
+                "actual": "2026-04-18T15:12:00+00:00",
+                "estimated_runway": "2026-04-18T15:12:00+00:00",
+                "actual_runway": "2026-04-18T15:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T15:05:00+00:00",
+                "delay": 47,
+                "estimated": "2026-04-18T15:49:00+00:00",
+                "actual": "2026-04-18T15:52:00+00:00",
+                "estimated_runway": "2026-04-18T15:52:00+00:00",
+                "actual_runway": "2026-04-18T15:52:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9228",
+                "iata": "AV9228",
+                "icao": "AVA9228",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7EB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 47,
+                "scheduled": "2026-04-18T14:00:00+00:00",
+                "estimated": "2026-04-18T14:00:00+00:00",
+                "actual": "2026-04-18T15:12:00+00:00",
+                "estimated_runway": "2026-04-18T15:12:00+00:00",
+                "actual_runway": "2026-04-18T15:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T15:05:00+00:00",
+                "delay": 47,
+                "estimated": "2026-04-18T15:49:00+00:00",
+                "actual": "2026-04-18T15:52:00+00:00",
+                "estimated_runway": "2026-04-18T15:52:00+00:00",
+                "actual_runway": "2026-04-18T15:52:00+00:00"
+            },
+            "airline": {
+                "name": "Turkish Airlines",
+                "iata": "TK",
+                "icao": "THY"
+            },
+            "flight": {
+                "number": "8623",
+                "iata": "TK8623",
+                "icao": "THY8623",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7EB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 47,
+                "scheduled": "2026-04-18T14:00:00+00:00",
+                "estimated": "2026-04-18T14:00:00+00:00",
+                "actual": "2026-04-18T15:12:00+00:00",
+                "estimated_runway": "2026-04-18T15:12:00+00:00",
+                "actual_runway": "2026-04-18T15:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T15:05:00+00:00",
+                "delay": 47,
+                "estimated": "2026-04-18T15:49:00+00:00",
+                "actual": "2026-04-18T15:52:00+00:00",
+                "estimated_runway": "2026-04-18T15:52:00+00:00",
+                "actual_runway": "2026-04-18T15:52:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6935",
+                "iata": "IB6935",
+                "icao": "IBE6935",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7EB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 47,
+                "scheduled": "2026-04-18T14:00:00+00:00",
+                "estimated": "2026-04-18T14:00:00+00:00",
+                "actual": "2026-04-18T15:12:00+00:00",
+                "estimated_runway": "2026-04-18T15:12:00+00:00",
+                "actual_runway": "2026-04-18T15:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "scheduled": "2026-04-18T15:05:00+00:00",
+                "delay": 47,
+                "estimated": "2026-04-18T15:49:00+00:00",
+                "actual": "2026-04-18T15:52:00+00:00",
+                "estimated_runway": "2026-04-18T15:52:00+00:00",
+                "actual_runway": "2026-04-18T15:52:00+00:00"
+            },
+            "airline": {
+                "name": "GOL",
+                "iata": "G3",
+                "icao": "GLO"
+            },
+            "flight": {
+                "number": "6709",
+                "iata": "G36709",
+                "icao": "GLO6709",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9228",
+                    "flight_iata": "av9228",
+                    "flight_icao": "ava9228"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7EB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T13:51:00+00:00",
+                "estimated": "2026-04-18T13:51:00+00:00",
+                "actual": "2026-04-18T13:47:00+00:00",
+                "estimated_runway": "2026-04-18T13:47:00+00:00",
+                "actual_runway": "2026-04-18T13:47:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "D3",
+                "scheduled": "2026-04-18T14:55:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T14:27:00+00:00",
+                "actual": "2026-04-18T14:28:00+00:00",
+                "estimated_runway": "2026-04-18T14:28:00+00:00",
+                "actual_runway": "2026-04-18T14:28:00+00:00"
+            },
+            "airline": {
+                "name": "JetSMART",
+                "iata": "JA",
+                "icao": "JAT"
+            },
+            "flight": {
+                "number": "5303",
+                "iata": "JA5303",
+                "icao": "JAT5303",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8062F"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 4,
+                "scheduled": "2026-04-18T13:30:00+00:00",
+                "estimated": "2026-04-18T13:30:00+00:00",
+                "actual": "2026-04-18T13:54:00+00:00",
+                "estimated_runway": "2026-04-18T13:54:00+00:00",
+                "actual_runway": "2026-04-18T13:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T14:35:00+00:00",
+                "delay": 4,
+                "estimated": "2026-04-18T14:37:00+00:00",
+                "actual": "2026-04-18T14:39:00+00:00",
+                "estimated_runway": "2026-04-18T14:39:00+00:00",
+                "actual_runway": "2026-04-18T14:39:00+00:00"
+            },
+            "airline": {
+                "name": "LATAM Airlines",
+                "iata": "LA",
+                "icao": "LAN"
+            },
+            "flight": {
+                "number": "4072",
+                "iata": "LA4072",
+                "icao": "LAN4072",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T14:35:00+00:00",
+                "estimated": "2026-04-18T14:35:00+00:00",
+                "actual": "2026-04-18T14:51:00+00:00",
+                "estimated_runway": "2026-04-18T14:51:00+00:00",
+                "actual_runway": "2026-04-18T14:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "7",
+                "scheduled": "2026-04-18T15:40:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T15:22:00+00:00",
+                "actual": "2026-04-18T15:25:00+00:00",
+                "estimated_runway": "2026-04-18T15:25:00+00:00",
+                "actual_runway": "2026-04-18T15:25:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6737",
+                "iata": "IB6737",
+                "icao": "IBE6737",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4074",
+                    "flight_iata": "la4074",
+                    "flight_icao": "lan4074"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E80247"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 4,
+                "scheduled": "2026-04-18T13:30:00+00:00",
+                "estimated": "2026-04-18T13:30:00+00:00",
+                "actual": "2026-04-18T13:54:00+00:00",
+                "estimated_runway": "2026-04-18T13:54:00+00:00",
+                "actual_runway": "2026-04-18T13:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T14:35:00+00:00",
+                "delay": 4,
+                "estimated": "2026-04-18T14:37:00+00:00",
+                "actual": "2026-04-18T14:39:00+00:00",
+                "estimated_runway": "2026-04-18T14:39:00+00:00",
+                "actual_runway": "2026-04-18T14:39:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6572",
+                "iata": "IB6572",
+                "icao": "IBE6572",
+                "codeshared": {
+                    "airline_name": "latam airlines",
+                    "airline_iata": "la",
+                    "airline_icao": "lan",
+                    "flight_number": "4072",
+                    "flight_iata": "la4072",
+                    "flight_icao": "lan4072"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "E8042C"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T13:10:00+00:00",
+                "estimated": "2026-04-18T13:10:00+00:00",
+                "actual": "2026-04-18T13:10:00+00:00",
+                "estimated_runway": "2026-04-18T13:10:00+00:00",
+                "actual_runway": "2026-04-18T13:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-18T14:15:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T13:57:00+00:00",
+                "actual": "2026-04-18T13:56:00+00:00",
+                "estimated_runway": "2026-04-18T13:56:00+00:00",
+                "actual_runway": "2026-04-18T13:56:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9204",
+                "iata": "AV9204",
+                "icao": "AVA9204",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7DC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T13:10:00+00:00",
+                "estimated": "2026-04-18T13:10:00+00:00",
+                "actual": "2026-04-18T13:10:00+00:00",
+                "estimated_runway": "2026-04-18T13:10:00+00:00",
+                "actual_runway": "2026-04-18T13:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "13",
+                "scheduled": "2026-04-18T14:15:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T13:57:00+00:00",
+                "actual": "2026-04-18T13:56:00+00:00",
+                "estimated_runway": "2026-04-18T13:56:00+00:00",
+                "actual_runway": "2026-04-18T13:56:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6903",
+                "iata": "IB6903",
+                "icao": "IBE6903",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9204",
+                    "flight_iata": "av9204",
+                    "flight_icao": "ava9204"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "A4D7DC"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T12:50:00+00:00",
+                "estimated": "2026-04-18T12:50:00+00:00",
+                "actual": "2026-04-18T13:05:00+00:00",
+                "estimated_runway": "2026-04-18T13:05:00+00:00",
+                "actual_runway": "2026-04-18T13:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-18T13:50:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T13:47:00+00:00",
+                "actual": "2026-04-18T13:47:00+00:00",
+                "estimated_runway": "2026-04-18T13:47:00+00:00",
+                "actual_runway": "2026-04-18T13:47:00+00:00"
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "9726",
+                "iata": "AV9726",
+                "icao": "AVA9726",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD4B05"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T12:50:00+00:00",
+                "estimated": "2026-04-18T12:50:00+00:00",
+                "actual": "2026-04-18T13:05:00+00:00",
+                "estimated_runway": "2026-04-18T13:05:00+00:00",
+                "actual_runway": "2026-04-18T13:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "10",
+                "scheduled": "2026-04-18T13:50:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T13:47:00+00:00",
+                "actual": "2026-04-18T13:47:00+00:00",
+                "estimated_runway": "2026-04-18T13:47:00+00:00",
+                "actual_runway": "2026-04-18T13:47:00+00:00"
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6992",
+                "iata": "IB6992",
+                "icao": "IBE6992",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9726",
+                    "flight_iata": "av9726",
+                    "flight_icao": "ava9726"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "AD4B05"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T12:14:00+00:00",
+                "estimated": "2026-04-18T12:14:00+00:00",
+                "actual": "2026-04-18T12:27:00+00:00",
+                "estimated_runway": "2026-04-18T12:27:00+00:00",
+                "actual_runway": "2026-04-18T12:27:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "8",
+                "scheduled": "2026-04-18T13:15:00+00:00",
+                "delay": null,
+                "estimated": "2026-04-18T12:59:00+00:00",
+                "actual": "2026-04-18T13:00:00+00:00",
+                "estimated_runway": "2026-04-18T13:00:00+00:00",
+                "actual_runway": "2026-04-18T13:00:00+00:00"
+            },
+            "airline": {
+                "name": "Wingo",
+                "iata": "P5",
+                "icao": "RPB"
+            },
+            "flight": {
+                "number": "7651",
+                "iata": "P57651",
+                "icao": "RPB7651",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "0C2012"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "cancelled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T11:10:00+00:00",
+                "estimated": "2026-04-18T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "9",
+                "scheduled": "2026-04-18T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "avianca",
+                "iata": "AV",
+                "icao": "AVA"
+            },
+            "flight": {
+                "number": "8522",
+                "iata": "AV8522",
+                "icao": "AVA8522",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "landed",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": 16,
+                "scheduled": "2026-04-18T19:50:00+00:00",
+                "estimated": "2026-04-18T19:50:00+00:00",
+                "actual": "2026-04-18T20:36:00+00:00",
+                "estimated_runway": "2026-04-18T20:36:00+00:00",
+                "actual_runway": "2026-04-18T20:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "11",
+                "scheduled": "2026-04-18T20:50:00+00:00",
+                "delay": 16,
+                "estimated": "2026-04-18T21:08:00+00:00",
+                "actual": "2026-04-18T21:06:00+00:00",
+                "estimated_runway": "2026-04-18T21:06:00+00:00",
+                "actual_runway": "2026-04-18T21:06:00+00:00"
+            },
+            "airline": {
+                "name": "Viva",
+                "iata": "VB",
+                "icao": "VIV"
+            },
+            "flight": {
+                "number": "8129",
+                "iata": "VB8129",
+                "icao": "VIV8129",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "9224",
+                    "flight_iata": "av9224",
+                    "flight_icao": "ava9224"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "ADDA25"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-04-18",
+            "flight_status": "cancelled",
+            "departure": {
+                "airport": "Alfonso B. Aragon",
+                "timezone": "America/Bogota",
+                "iata": "CLO",
+                "icao": "SKCL",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-04-18T11:10:00+00:00",
+                "estimated": "2026-04-18T11:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "El Nuevo Dorado International",
+                "timezone": "America/Bogota",
+                "iata": "BOG",
+                "icao": "SKBO",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "9",
+                "scheduled": "2026-04-18T12:10:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Iberia",
+                "iata": "IB",
+                "icao": "IBE"
+            },
+            "flight": {
+                "number": "6934",
+                "iata": "IB6934",
+                "icao": "IBE6934",
+                "codeshared": {
+                    "airline_name": "avianca",
+                    "airline_iata": "av",
+                    "airline_icao": "ava",
+                    "flight_number": "8522",
+                    "flight_iata": "av8522",
+                    "flight_icao": "ava8522"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}

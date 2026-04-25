@@ -1,0 +1,47 @@
+<section class="buscador">
+  <form (ngSubmit)="obtenerVuelos()">
+    <label for="aerOrigen" class="etiCampos">Origen:</label>
+    <select name="aeroOrigen" id="aerOrigen" class="cmpGeneral" [(ngModel)]="aeroOrigen" (change)="onSelectionChange($event)">
+      <option value="clo">Cali - CLO</option>
+      <option value="bog">Bogota - BOG</option>
+      <option value="mde">Medellín - MDE</option>
+      <option value="ctg">Cartagena - CTG</option>
+      <option value="adz">San Andrés - ADZ</option>
+      <option value="baq">Barranquilla - BAQ</option>
+      <option value="smr">Santa Marta - SMR</option>
+      <option value="bga">Bucaramanga - BGA</option>
+      <option value="pei">Pereira - PEI</option>
+      <option value="cuc">Cúcuta - CUC</option>
+    </select>
+    <label for="aeroDestino" class="etiCampos">Destino:</label>
+    <select name="aeroDestino" id="aerOrigen" class="cmpGeneral" [(ngModel)]="aeroDestino" (change)="onSelectionChange($event)">
+      <option value="clo">Cali - CLO</option>
+      <option value="bog">Bogota - BOG</option>
+      <option value="mde">Medellín - MDE</option>
+      <option value="ctg">Cartagena - CTG</option>
+      <option value="adz">San Andrés - ADZ</option>
+      <option value="baq">Barranquilla - BAQ</option>
+      <option value="smr">Santa Marta - SMR</option>
+      <option value="bga">Bucaramanga - BGA</option>
+      <option value="pei">Pereira - PEI</option>
+      <option value="cuc">Cúcuta - CUC</option>
+    </select>
+    <button class="btnBuscar">Buscar Vuelos</button>
+  </form>
+</section>
+<section class="results">
+  
+  <table class="tablaVuelos">
+    <tr>
+      <th class="startCell" scope="col">ID</th>
+      <th scope="col">Origen</th>
+      <th scope="col">Destino</th>
+      <th scope="col">Aerolinea</th>
+      <th scope="col">Estado</th>
+      <th scope="col">Salida</th>
+      <th scope="col">Llegada</th>
+      <th class="endCell" scope="col">Demora</th>
+    </tr>
+    <tr *ngFor="let vuelo of listaVuelos" app-lista-vuelos [vuelo]="vuelo"></tr>
+  </table>
+</section>

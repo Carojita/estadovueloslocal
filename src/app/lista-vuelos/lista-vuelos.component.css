@@ -1,0 +1,17 @@
+th{
+    background-color: blueviolet;
+    color:#ddd;
+    font-weight: bold;
+}
+th, td {
+  padding: 0.5rem;
+}
+.endCell{
+    border-radius: 0px 1rem 1rem 0px;
+    padding-right: 1rem;
+}
+
+.startCell{
+    border-radius: 1rem 0px 0px 1rem;
+    padding-left: 1rem;
+}
