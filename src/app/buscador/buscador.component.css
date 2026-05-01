@@ -1,76 +1,105 @@
-
-.etiCampos{
-    margin: 0rem 0.5rem 0rem 1rem;
-    color:rgb(140, 37, 172);
+.etiCampos {
+  margin: 0rem 0.5rem 0rem 1rem;
+  color: rgb(140, 37, 172);
 }
 
-.btnBuscar{
-    margin: 0rem 1rem 0rem 1rem;
-    color:black;
-    background-color: rgb(140, 37, 172);
-    border-radius: 5px;
-    border: solid black 1px;
-    box-shadow: 0px 0px 5px black;
-    padding: 0.2rem 0.5rem 0.2rem  0.5rem ;
+.btnBuscar {
+  margin: 0rem 1rem 0rem 1rem;
+  color: black;
+  background-color: rgb(140, 37, 172);
+  border-radius: 5px;
+  border: solid black 1px;
+  box-shadow: 0px 0px 5px black;
+  padding: 0.2rem 0.5rem 0.2rem 0.5rem;
 }
 
-.btnDisabled{
-    margin: 0rem 1rem 0rem 1rem;
-    color:rgb(56, 56, 56);
-    background-color: rgb(73, 73, 73);
-    border-radius: 5px;
-    border: solid black 1px;
-    box-shadow: 0px 0px 5px black;
-    padding: 0.2rem 0.5rem 0.2rem  0.5rem ;
+.btnBuscar:disabled {
+  margin: 0rem 1rem 0rem 1rem;
+  color: rgb(56, 56, 56);
+  background-color: rgb(73, 73, 73);
+  border-radius: 5px;
+  border: solid black 1px;
+  box-shadow: 0px 0px 5px black;
+  padding: 0.2rem 0.5rem 0.2rem 0.5rem;
 }
 
-.btnBuscar:hover{
-    color:#E5E5E5;
-    border: solid white 1px;
+.btnBuscar:hover {
+  color: #e5e5e5;
+  border: solid white 1px;
 }
 
-.buscador{
-    padding: 1rem;
+.buscador {
+  padding: 1rem;
+  position: relative;
+  display: flex;
 }
-.msgError{
-    color: red;
+.msgError {
+  color: red;
 }
-.cmpGeneral{
-    color:black;
-    border-radius: 5px;
-    border: solid black 1px;
-    box-shadow: 0px 0px 4px #444 inset;
-    padding: 0.2rem 0.5rem 0.2rem  0.5rem ;
-}
-
-.cmpGeneral:hover{
-    border: solid rgb(140, 37, 172) 1px;
+.cmpGeneral {
+  color: black;
+  border-radius: 5px;
+  border: solid black 1px;
+  box-shadow: 0px 0px 4px #444 inset;
+  padding: 0.2rem 0.5rem 0.2rem 0.5rem;
 }
 
-.tablaVuelos{   
-    width: 95%;
-    margin:auto;
-    color: #444;
-}
-th{
-    background-color: rgb(140, 37, 172);
-    color:#ddd;
-    font-weight: bold;
-}
-th, td {
-  padding: 0.5rem
-}
-.endCell{
-    border-radius: 0px 1rem 1rem 0px;
-    padding-right: 1rem;
+.cmpGeneral:hover {
+  border: solid rgb(140, 37, 172) 1px;
 }
 
-.startCell{
-    border-radius: 1rem 0px 0px 1rem;
-    padding-left: 1rem;
+.tablaVuelos {
+  width: 95%;
+  margin: auto;
+  color: #444;
+  table-layout: fixed;
+}
+th {
+  background-color: rgb(140, 37, 172);
+  color: #ddd;
+  font-weight: bold;
+}
+th,
+td {
+  padding: 0.5rem;
+}
+.endCell {
+  border-radius: 0px 1rem 1rem 0px;
+  padding-right: 1rem;
 }
 
-tr:nth-child(even){background-color: #f2f2f2;}
+.startCell {
+  border-radius: 1rem 0px 0px 1rem;
+  padding-left: 1rem;
+}
 
-tr:hover {background-color: #ddd;}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
+tr:hover {
+  background-color: #ddd;
+}
+
+@media (max-width: 991px) {
+  .tablaVuelos {
+    width: 100%;
+    min-width: 834px;
+  }
+  .buscador {
+    min-width: 716px;
+    padding: 0.5rem;
+    position: relative;
+  }
+  .etiCampos {
+    margin: 0rem 0.2rem 0rem 0.5rem;
+    color: rgb(140, 37, 172);
+  }
+  .btnBuscar {
+    margin: 0rem 0.5rem 0rem 0.5rem;
+  }
+
+  .btnBuscar:disabled {
+    margin: 0rem 0.5rem 0rem 0.5rem;
+  }
+}

@@ -1,4 +1,4 @@
-<section class="buscador">
+<div class="buscador">
   <form (ngSubmit)="obtenerVuelos()">
     <label for="aerOrigen" class="etiCampos">Origen:</label>
     <select name="aeroOrigen" id="aerOrigen" class="cmpGeneral" [(ngModel)]="aeroOrigen" (change)="onSelectionChange($event)">
@@ -28,7 +28,7 @@
     </select>
     <button class="btnBuscar">Buscar Vuelos</button>
   </form>
-</section>
+</div>
 <section class="results">
   
   <table class="tablaVuelos">
