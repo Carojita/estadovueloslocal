@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 26-04-2026 a las 00:25:18
+-- Tiempo de generación: 01-05-2026 a las 19:10:52
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -26,11 +26,6 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `aerolinea`
 --
-CREATE USER `api_user`@`%` IDENTIFIED BY '*6DA8A65D42F5B459ECF0745ADC7DDD52C4B5F87F';
-
-GRANT SELECT, INSERT, UPDATE, DELETE ON *.* TO `api_user`@`%` IDENTIFIED BY PASSWORD '*6DA8A65D42F5B459ECF0745ADC7DDD52C4B5F87F';
-
-GRANT SELECT, INSERT, UPDATE, DELETE ON `estadovuelos`.* TO `api_user`@`%`;
 
 CREATE TABLE `aerolinea` (
   `nombre` varchar(35) NOT NULL,
@@ -99,14 +94,25 @@ CREATE TABLE `vuelo` (
 --
 
 INSERT INTO `vuelo` (`estado`, `salida`, `origen`, `iata`, `destino`, `aerolinea`, `demora`, `llegada`) VALUES
+('Cancelado', '2026-05-01 11:50:42', 'BOG', 'AM002', 'BGA', 'AM', NULL, '2026-05-01 18:50:41'),
+('Programado', '2026-05-04 16:00:30', 'BAQ', 'AM003', 'BOG', 'LA', NULL, '2026-05-04 18:00:30'),
 ('Aterrizaje Completo', '2026-04-19 16:46:00', 'BOG', 'AV001', 'CLO', 'AV', NULL, '2026-04-19 17:46:00'),
-('Programado', '2026-04-25 10:40:07', 'CTG', 'DL001', 'BOG', 'DL', 3, '2026-04-25 11:40:07'),
+('Aterrizaje Completo', '2026-05-01 11:43:22', 'CLO', 'AV003', 'PEI', 'LA', NULL, '2026-05-01 18:43:22'),
+('Incidente Reportado', '2026-05-01 11:52:03', 'MDE', 'AV004', 'BOG', 'AV', NULL, '2026-05-01 14:00:03'),
+('Activo', '2026-05-02 09:30:12', 'ADZ', 'AV005', 'MDE', 'AV', NULL, '2026-05-02 11:48:12'),
+('Activo', '2026-05-03 12:07:24', 'ADZ', 'AV006', 'BOG', 'DL', NULL, '2026-05-03 15:07:24'),
+('Programado', '2026-04-25 10:40:07', 'CTG', 'DL001', 'BOG', 'DL', NULL, '2026-04-25 11:40:07'),
 ('Programado', '2026-04-25 11:19:53', 'CLO', 'DL002', 'BOG', 'DL', NULL, '2026-04-25 12:19:53'),
+('Activo', '2026-05-01 11:55:04', 'CTG', 'DL006', 'BOG', 'DL', NULL, '2026-05-01 13:55:04'),
+('Aterrizaje Completo', '2026-05-01 16:00:30', 'CUC', 'DL007', 'CLO', 'WJ', NULL, '2026-05-01 18:59:30'),
+('Aterrizaje Completo', '2026-05-01 10:07:24', 'PEI', 'DL008', 'MDE', 'DL', NULL, '2026-05-01 12:09:35'),
 ('Programado', '2026-04-27 15:05:00', 'CLO', 'LA001', 'ADZ', 'LA', NULL, '2026-04-27 18:05:00'),
 ('Programado', '2026-04-27 17:05:00', 'CLO', 'LA002', 'CTG', 'LA', NULL, '2026-04-27 19:05:00'),
 ('Programado', '2026-04-30 15:00:00', 'PEI', 'LA003', 'CUC', 'LA', NULL, '2026-04-30 17:00:00'),
 ('Programado', '2026-04-30 15:00:00', 'PEI', 'LA004', 'CUC', 'LA', NULL, '2026-04-30 17:00:00'),
-('Activo', '2026-04-25 11:19:53', 'BOG', 'WJ001', 'CLO', 'WJ', 3, '2026-04-25 12:19:53');
+('Activo', '2026-04-25 11:19:53', 'BOG', 'WJ001', 'CLO', 'WJ', NULL, '2026-04-25 12:19:53'),
+('Programado', '2026-05-03 11:53:46', 'SMR', 'WJ004', 'CLO', 'WJ', NULL, '2026-05-03 15:00:46'),
+('Desviado', '2026-05-01 11:55:04', 'BGA', 'WJ005', 'ADZ', 'LA', 3, '2026-05-01 17:55:04');
 
 --
 -- Índices para tablas volcadas
